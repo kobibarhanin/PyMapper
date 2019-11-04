@@ -1,0 +1,8 @@
+exclude_files:
+  has: "12345"
+exclude_funcs:
+  has: "func2a"
+enforce_files:
+  has: ""
+enforce_funcs:
+  has: ""

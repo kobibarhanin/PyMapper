@@ -1,1 +1,5 @@
 .idea
+Targets/simpleApp/pack1/__pycache__
+Targets/simpleApp/pack2/__pycache__
+Mapper/__pycache__
+temp/
